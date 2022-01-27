@@ -2,7 +2,7 @@
 EDA on the King County Housing Dataset performed during the neue fische Data Science Bootcamp. The time window was two workdays.
 - The assignment is explained [here](assignment.md).
 - The EDA notebook can be found [here](EDA.ipynb).
-- The 10min presentation for the stakeholder is [here](presentation.pdf).
+- The 10min presentation for the stakeholder is [here](2022-01-27_EDA_Project.pdf).
 - The EDA and the presentation are oriented on the EDA workflow as described [here](workflow.md).
 - The column description can be found [here](column_names.md).
 ## Dataset
